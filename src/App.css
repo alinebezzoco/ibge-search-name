@@ -1,0 +1,35 @@
+header {
+  background-color: #4c8eca;
+  padding: 2.5rem 0;
+  margin-bottom: 2.5rem;
+}
+
+table {
+  width: 85%;
+  margin: 2.5rem auto;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 0.625rem;
+}
+
+tr.not-found { 
+  display: block;
+  padding: 20px 0;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+input {
+  margin: 0 auto;
+  display: block;
+  width: 75%;
+  font-size: 1rem;
+  padding: 1rem;
+}

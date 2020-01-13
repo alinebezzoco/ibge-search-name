@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Lora', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 { 
+  font-size: 3.75rem;
+  text-align: center;
+  font-weight: 700;
+  color: #fff;
+  margin: 0;
+}
+
+p { 
+  font-size: 1.125rem;
+  text-align: center;
+  color: #fff;
+}
