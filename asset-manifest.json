@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ibge-search-name/static/css/main.b5d54447.chunk.css",
+    "main.js": "/ibge-search-name/static/js/main.a14a3eb1.chunk.js",
+    "main.js.map": "/ibge-search-name/static/js/main.a14a3eb1.chunk.js.map",
+    "runtime-main.js": "/ibge-search-name/static/js/runtime-main.b90b7217.js",
+    "runtime-main.js.map": "/ibge-search-name/static/js/runtime-main.b90b7217.js.map",
+    "static/js/2.7b94ace7.chunk.js": "/ibge-search-name/static/js/2.7b94ace7.chunk.js",
+    "static/js/2.7b94ace7.chunk.js.map": "/ibge-search-name/static/js/2.7b94ace7.chunk.js.map",
+    "index.html": "/ibge-search-name/index.html",
+    "precache-manifest.fc8c9b99df803e782ff3d5c47632e231.js": "/ibge-search-name/precache-manifest.fc8c9b99df803e782ff3d5c47632e231.js",
+    "service-worker.js": "/ibge-search-name/service-worker.js",
+    "static/css/main.b5d54447.chunk.css.map": "/ibge-search-name/static/css/main.b5d54447.chunk.css.map",
+    "static/js/2.7b94ace7.chunk.js.LICENSE": "/ibge-search-name/static/js/2.7b94ace7.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b90b7217.js",
+    "static/js/2.7b94ace7.chunk.js",
+    "static/css/main.b5d54447.chunk.css",
+    "static/js/main.a14a3eb1.chunk.js"
+  ]
+}
