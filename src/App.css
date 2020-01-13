@@ -1,6 +1,6 @@
 header {
   background-color: #4c8eca;
-  padding: 2.5rem 0;
+  padding: 2.5rem;
   margin-bottom: 2.5rem;
 }
 
@@ -19,7 +19,7 @@ th {
 
 tr.not-found { 
   display: block;
-  padding: 20px 0;
+  padding: 1.25rem 0;
 }
 
 tr:nth-child(even) {
